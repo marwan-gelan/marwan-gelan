@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello, je suis Marwan Gelan
 
-<!--
-**marwan-gelan/marwan-gelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Amoureux de la science, de la spiritualité et de la quête de sens.
 
-Here are some ideas to get you started:
+🌍 Observateur du monde, penseur visuel et amateur de liens profonds entre matière, esprit et humanité.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏀 Fan de NBA et curieux des idées brillantes et simples qui élèvent.
+
+📌 Me retrouver :
+- [LinkedIn](https://www.linkedin.com/in/marwangelan)
+- [Twitter / X](https://twitter.com/MarwanGelan)
+- [Pinterest](https://pinterest.com/marwangelan)
+
